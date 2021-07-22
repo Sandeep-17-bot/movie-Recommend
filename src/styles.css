@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+.movi {
+  margin-top: 3rem;
+  margin-bottom: 0rem;
+  font-size: 5rem;
+  font-family: "Courier New", Courier, monospace;
+}
+.recom {
+  margin-top: 0rem;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+.clickhandler {
+  display: inline-block;
+  margin: 1rem 0.3rem;
+  margin-left: 1rem;
+  padding: 0.3rem 2rem;
+  text-align: left;
+  font-style: italic;
+  font-weight: 600;
+  cursor: pointer;
+  /* border: 1px solid rgb(224, 159, 159); */
+  border-radius: 0.5rem;
+  box-shadow: 15px 13px 23px #aaaaaa;
+}
+.mov {
+  display: block;
+  /* font-weight: bold; */
+  margin-top: 2.5rem;
+  margin-bottom: 0rem;
+  /* border: 1px solid black; */
+  text-align: left;
+  padding-left: 6rem;
+  border-radius: 0.5rem;
+  box-shadow: 15px 13px 23px #aaaaaa;
+  padding: 1rem;
+}
+.movie {
+}
+.mvi {
+  /* font-weight: bold; */
+  font-style: italic;
+  font-size: 1.5rem;
+}
